@@ -1,0 +1,6 @@
+A "Welcome to PL."
+B tmp
+> tmp 0
+A "Want to know answer ?"
+B wh
+> wh 13
